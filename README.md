@@ -9,6 +9,7 @@ Use the `requirements.txt` to install all dependencies
 
 ```bash
 python -m venv .venv
+conda activate azure-rag-env
 ./.venv/bin/pip install -r requirements.txt
 ```
 
